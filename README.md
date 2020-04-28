@@ -3,7 +3,8 @@
 [GooglePlay Russian version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattleRU)<br />
 [GooglePlay English version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattle)<br />
 <br />
-##Gameplay video
+Gameplay video
+-----------------------------
 [![Gameplay video](https://img.youtube.com/vi/ywJFWoOecjM/maxresdefault.jpg)](https://youtu.be/ywJFWoOecjM)<br />
 
 The times of soviet slot machines inspired us to create this application. 
@@ -19,11 +20,9 @@ Use the onscreen joystick to move the aim point.
 Press and release the onscreen red button to shoot. 
 Remember to get anticipate when shooting at a moving target. 
 Torpedo needs 3 seconds for loading. 
-There are 6 torpedoes per rank (per level). 
-You may share your results with friends.
 
-##Some screenshots:
-
+Some screenshots:
+--------------------------
 <img src="/1_main_menu.jpg"  height="360" width="640">
 <img src="/2_help_palnel.jpg"  height="360" width="640">
 <img src="/3_statistic_panel.jpg"  height="360" width="640">
