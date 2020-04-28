@@ -22,9 +22,9 @@ You may share your results with friends.
 
 ##Some screenshots:
 
-<img src="/1_main_menu.jpg"  height="360" width="340">
+<img src="/1_main_menu.jpg"  height="360" width="640">
 <img src="/2_help_palnel.jpg"  height="360" width="640">
 <img src="/3_statistic_panel.jpg"  height="360" width="640">
-<img src="4_difficulty_menu.jpg"  height="360" width="60">
+<img src="4_difficulty_menu.jpg"  height="360" width="640">
 <img src="/6_level_hard.jpg"  height="360" width="640">
 <img src="/1_main_menu.jpg"  height="360" width="640">
