@@ -2,7 +2,7 @@
 
 [GooglePlay Russian version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattleRU)<br />
 [GooglePlay English version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattle)<br />
-[![Gameplay video](https://youtu.be/ywJFWoOecjM/maxresdefault.jpg)](https://youtu.be/ywJFWoOecjM)<br />
+[![Gameplay video](https://img.youtube.com/vi/ywJFWoOecjM/maxresdefault.jpg)](https://youtu.be/ywJFWoOecjM)<br />
 
 The times of soviet slot machines inspired us to create this application. 
 This app is not a copy of slot machines interface and gameplay which were actually in '80 years of the previous century. 
