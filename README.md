@@ -3,6 +3,9 @@
 [GooglePlay Russian version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattleRU)<br />
 [GooglePlay English version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattle)<br />
 <br />
+
+06/2020 - Leaderboards and achievements added to both versions.
+
 Gameplay video
 -----------------------------
 [![Gameplay video](https://img.youtube.com/vi/ywJFWoOecjM/maxresdefault.jpg)](https://youtu.be/ywJFWoOecjM)<br />
